@@ -17,7 +17,6 @@ public class Atividade01 {
 		
 		System.out.println("A soma dos números é:" + soma);
 		
-		
 	}
 
 }

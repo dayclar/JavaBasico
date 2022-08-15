@@ -33,12 +33,6 @@ public class Atividade02 {
 		
 		System.out.println(" A divisão dos dois números é: " + divisao);
 		
-		
-		
-		
-		
-		
-		
 	}
 
 }
